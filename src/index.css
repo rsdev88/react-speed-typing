@@ -42,6 +42,7 @@ textarea {
     font-family: 'Press Start 2P', cursive;
     border: 3px solid black;
     width: 90%;
+    max-width: 950px;
     margin: 0 auto;
     outline: none;
     height: 200px;
